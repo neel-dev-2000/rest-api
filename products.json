@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Iphone",
+      "price": 154,
+      "featured": true,
+      "company": "apple"
+    },
+    {
+      "name": "Iphone10",
+      "price": 1154,
+      "featured": true,
+      "company": "apple"
+    },
+    {
+      "name": "Watch",
+      "price": 300,
+      "company": "apple"
+    },
+    {
+      "name": "Ipods",
+      "price": 500,
+      "company": "apple"
+    },
+    {
+      "name": "GalaxyNote",
+      "price": 1150,
+      "company": "samsung"
+    },
+    {
+      "name": "GalaxyWatch",
+      "price": 400,
+      "company": "samsung"
+    },
+    {
+      "name": "GalaxyBuds",
+      "price": 200,
+      "company": "samsung"
+    },
+    {
+      "name": "Laptop",
+      "price": 11150,
+      "company": "dell"
+    },
+    {
+      "name": "RedmiNote",
+      "price": 1150,
+      "company": "mi"
+    }
+  ]
+  
